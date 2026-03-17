@@ -1,7 +1,5 @@
 # AWS Networking and Monitoring Lab
 
-AWS networking (VPC) and monitoring using CloudWatch and CloudTrail
-
 Hands-on AWS project simulating real-world Cloud Support tasks involving networking, infrastructure setup, and monitoring.
 
 VPC configuration, traffic control, and system monitoring using AWS tools.

@@ -86,7 +86,6 @@ I built a Virtual Private Cloud (VPC), configured subnets and routing, and imple
 
 ## Project Documentation
 
-- [VPC Networking Setup PDF] (aws-vpc-networking.pdf](https://github.com/user-attachments/files/26069500/aws-vpc-networking.pdf)
-nk)
-- [Cloud Monitoring Setup PDF][aws-cloud-monitoring.pdf](https://github.com/user-attachments/files/26069581/aws-cloud-monitoring.pdf)
-nk)
+- [VPC Networking Setup](https://github.com/user-attachments/files/26069500/aws-vpc-networking.pdf)
+
+- [Cloud Monitoring Setup](https://github.com/user-attachments/files/26069581/aws-cloud-monitoring.pdf)
